@@ -2,9 +2,9 @@ import win32com.client
 import os
 
 # Chemins spécifiques
-template_ai = r"C:\Users\fnana\Downloads\invitation_penda.ai"
-names_file = r"D:\code\guest-list - 13.txt"
-output_folder = r"C:\Users\fnana\Downloads\billet_pentose\260225"
+template_ai = r"C:\Users\fnana\Downloads\invitation_penda - 2.ai"
+names_file = r"D:\code\guest-list - 2.txt"
+output_folder = r"C:\Users\fnana\Downloads\billet_pentose\030225\02"
 
 # Créer le dossier de sortie s'il n'existe pas
 if not os.path.exists(output_folder):

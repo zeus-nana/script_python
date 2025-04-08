@@ -3,7 +3,7 @@ from pathlib import Path
 from datetime import datetime
 import csv
 
-TARGET_FOLDER = r"C:\Users\fnana\Documents\maj"  # Dossier à analyser
+TARGET_FOLDER = r"D:\Projet\2024\Transfin_260225"  # Dossier à analyser
 
 def bytes_to_mb(bytes_size):
     return bytes_size / (1024 * 1024)
