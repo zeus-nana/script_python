@@ -3,7 +3,7 @@ import re
 import tiktoken
 
 # Configuration
-folder_path = r"C:\Users\fnana\StudioProjects\cpt_client_new\lib"  # Dossier à analyser
+folder_path = r"D:\code\jour\270425\Ecme_starter\src\components\template"  # Dossier à analyser
 file_extensions = ["ts", "tsx", "js", "jsx", "py", "html", "css", "txt", "dart"]  # Types de fichiers à examiner
 
 # Initialiser l'encodeur GPT
